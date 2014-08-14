@@ -10,7 +10,7 @@ Simple Axis2 module for logging SOAP requests and responses
   $ mvn clean install
   ```
 
-- Add the resultant jar archive to the <CARBON_HOME>/repository/components/lib directory
+- Add the resultant jar archive to the ```<CARBON_HOME>/repository/components/lib``` directory
 
 - Add a line to axis2.xml to invoke the module at some phase, in any phase order (i.e. inFlow/outFaultFlow etc.)
 	e.g.
