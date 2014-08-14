@@ -3,8 +3,7 @@ soap-logger
 
 Simple Axis2 module for logging SOAP requests and responses
 
-Usage (WSO2 Carbos-specific)
------
+###Usage (WSO2 Carbon-specific)
 
 - Build the project as follows:
 	```
